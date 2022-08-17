@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#root button {
+  background: none;
+  height: 30vh;
+}
+#root #num-con {
+  width: 100vw;
+  height: 100vh;
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
